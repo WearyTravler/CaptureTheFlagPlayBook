@@ -23,3 +23,7 @@ for x in c:
 #m = pow(c,d,n)
 #print(hex(m))
 #print(m)
+
+###TODO
+# print in one line
+#decrypt hex
